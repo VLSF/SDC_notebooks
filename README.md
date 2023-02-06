@@ -11,5 +11,6 @@ Dataset:
 + [How to generate and process dataset](https://github.com/VLSF/SDC_notebooks/blob/main/datasets/Collecting%20datasets.ipynb)
 
 Integrators:
++ [Review of integrators and equations](https://github.com/VLSF/SDC_notebooks/blob/main/integrators/ODEs%20and%20integrators.ipynb)
 + [Different variants of spectral deferred correction method](https://github.com/VLSF/SDC_notebooks/blob/main/integrators/Spectral%20Deferred%20Correction.ipynb)
 + [Anderson acceleration for spectral deferred correction](https://github.com/VLSF/SDC_notebooks/blob/main/integrators/Anderson%20Acceleration.ipynb)
