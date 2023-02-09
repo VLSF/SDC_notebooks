@@ -8,7 +8,7 @@ Architectures:
 + [Training and extrapolation of PiNN](https://github.com/VLSF/SDC_notebooks/blob/main/architectures/vanilla%20PiNN.ipynb)
 
 Dataset:
-+ [How to generate and process dataset](https://github.com/VLSF/SDC_notebooks/blob/main/datasets/Collecting%20datasets.ipynb)
++ [How to generate and process dataset](https://github.com/VLSF/SDC_notebooks/blob/main/datasets/Dataset%20generation.ipynb)
 
 Integrators:
 + [Review of integrators and equations](https://github.com/VLSF/SDC_notebooks/blob/main/integrators/ODEs%20and%20integrators.ipynb)
