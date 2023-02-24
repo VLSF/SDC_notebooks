@@ -12,6 +12,9 @@ Dataset:
 + [How to generate and process dataset](https://github.com/VLSF/SDC_notebooks/blob/main/datasets/Dataset%20generation.ipynb)
 + [How to evaluate models](https://github.com/VLSF/SDC_notebooks/blob/main/datasets/Metrics.ipynb)
 
+Experiments:
++ [Training Neural Operator as corrector](https://github.com/VLSF/SDC_notebooks/blob/main/experiments/Neural%20Operator%20with%20skip%20connection.ipynb)
+
 Integrators:
 + [Review of integrators and equations](https://github.com/VLSF/SDC_notebooks/blob/main/integrators/ODEs%20and%20integrators.ipynb)
 + [Different variants of spectral deferred correction method](https://github.com/VLSF/SDC_notebooks/blob/main/integrators/Spectral%20Deferred%20Correction.ipynb)
